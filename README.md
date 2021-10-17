@@ -12,5 +12,3 @@
 - Ahora se nos abre una nueva ventana avisando de que se van ha realizar unos cambion en el man a traves de la rama readme ![GitHub Logo](/githellow/9.png)
 - Confirmamos los cambiso que vamos ha hacer pulsando en **confirm marge**  ![GitHub Logo](/githellow/10.png)
 - Vemos que se han generado correctamente los cambios  y podemos eliminar el **branch**  ![GitHub Logo](/githellow/11.png)
-- 
-
